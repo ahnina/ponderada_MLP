@@ -20,4 +20,5 @@ Após a execução, você verá a saída com os resultados. Esses resultados inc
 
 Abaixo está um exemplo de como os resultados são apresentados:
 
-![image](https://github.com/ahnina/ponderada_MLP/assets/124217721/6b5bda35-2b5d-41a9-b1b7-afce143670b4)
+![image](https://github.com/ahnina/ponderada_MLP/assets/124217721/87812095-0f90-469a-ac4c-b0956ee4a9c6)
+
