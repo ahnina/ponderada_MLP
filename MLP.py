@@ -79,5 +79,5 @@ mlp.train(X, y)
 
 # Testando a MLP treinada
 predictions = mlp.predict(X)
-print("Predictions after training:")
+print("Resultado da predição após o treinamento:")
 print(predictions)
